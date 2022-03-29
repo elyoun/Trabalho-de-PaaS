@@ -2,16 +2,16 @@
 ## Resumo
 
 Ao longo deste trabalho optamos por fazer, em primeiro lugar, uma contextualização 
-do que é o serviço de Platform-as-a-Service, a sua utilidade e especificações. Vamos explorar alguns dos diferentes serviços de PaaS da AWS, fazendo uma pequena contextualização do que consistem. Iremos ainda, analisar o serviço da *Amazon Elastic Beanstalk*, desenvolver em maior detalhe o serviço e perceber as suas vantagens.  
+do que é o serviço de Platform-as-a-Service, a sua utilidade e especificações. Vamos explorar alguns dos diferentes serviços de PaaS da AWS, fazendo uma pequena contextualização do que consistem. Iremos ainda, analisar o serviço *Amazon Elastic Beanstalk*, desenvolver em maior detalhe o serviço e perceber as suas vantagens.  
 
 ## Introdução
 
-Neste trabalho, através da aprendizagem feita ao longo das últimas aulas, complementada com uma pesquisa por vários websites, nomeadamente o website corporativo da AWS  iremos analisar o serviço de nuvem PaaS, percebendo quais são as suas vantagens e desvantagens. Explorando, também, os diferentes serviços de PaaS oferecidos pela Amazon Web Services (AWS), e fazendo uma análise mais detalhada do serviço *Amazon Elastic Beanstalk*, de modo a perceber a sua utilidade e aplicação.
+Neste trabalho, através da aprendizagem feita ao longo das últimas aulas, complementada com uma pesquisa por vários websites, nomeadamente o website corporativo da Amazon Web Services (AWS) iremos analisar o serviço de nuvem PaaS e perceber quais são as suas vantagens e desvantagens, explorando também os diferentes serviços de PaaS oferecidos pela AWS e fazendo uma análise mais detalhada do serviço *Amazon Elastic Beanstalk*, de modo a perceber a sua aplicação e utilidade.
 
 
 ## O que é PaaS?
 
-PaaS designa o serviço de Platform-as-a-Service, refere-se ao serviço de nuvem que fornece a fundação para os desenvolvedores de software desenharem, desenvolverem e executarem aplicações. Facilita a testagem das mesmas e permite implementar e distribuir essas aplicações sem que tenhamos de nos preocupar com a infraestrutura subjacente de hardware, mas também de todo o software necessário para o desenvolvimento das mesmas, inclui serviços de rede, servidores, armazenamento, virtualização, sistemas operativos, middleware, desenvolvimento, monitorização, segurança.
+PaaS designa o serviço de _Platform-as-a-Service_ e refere-se ao serviço de nuvem que fornece a fundação para os desenvolvedores de _software_ desenharem, desenvolverem e executarem aplicações. Facilita a testagem das mesmas e permite implementar e distribuir essas aplicações sem que tenhamos de nos preocupar com a infraestrutura subjacente de _hardware_ mas também de todo o _software_ necessário para o desenvolvimento das mesmas e inclui serviços de rede, servidores, armazenamento, virtualização, sistemas operativos, middleware, desenvolvimento, monitorização e segurança.
 
 <p align="center">
   <img src="https://blogs.bmc.com/wp-content/uploads/2017/09/saas-vs-paas-vs-iaas-720x675.png"/>
@@ -20,13 +20,13 @@ PaaS designa o serviço de Platform-as-a-Service, refere-se ao serviço de nuvem
 
 ### Vantagens
 
-O serviço PaaS oferece diversas  vantagens, e é orientado para desenvolvedores de software. Algumas das suas vantagens são: 
-* Menor investimento inicial, representando menor risco ao negócio, permitindo um maior número de “business ventures” com custos incrementais, não sendo necessário investimentos com infra-estrutura, softwares básicos como sistemas operacionais e softwares adicionais necessários para executar as aplicações necessárias ao ambiente de desenvolvimento. 
-* Custos de acordo com a utilização da capacidade e poder computacional utilizado. 
-* Atualizações e novas funcionalidades são disponibilizadas de forma imediata, não sendo necessário dedicar especialistas para estas funções.
-* Suporte mais ágil com soluções implementadas rapidamente, onde os problemas encontrados são tratados e a solução é disponibilizada de forma transparente a todos os usuários sem a necessidade de um tratamento individual que retarda a disponibilização da correção.
-* A empresa pode focar seus esforços no seu negócio, sem despender energia com a escolha e manutenção de sistemas.
-* Aumento da disponibilidade e segurança dos dados. Disponibilizando procedimentos de backup, restauração e planos de contingência para o caso da perda de informações ou falha de hardware.
+O serviço PaaS oferece diversas vantagens, e é orientado para desenvolvedores de _software_. Algumas das suas vantagens são: 
+* Menor investimento inicial, representando menor risco ao negócio, permitindo um maior número de “business ventures” com custos incrementais, não sendo necessário investimentos com infraestrutura, _softwares_ básicos como sistemas operativos e _softwares_ adicionais necessários para executar as aplicações necessárias ao ambiente de desenvolvimento;
+* Custos de acordo com a utilização da capacidade e poder computacional utilizado;
+* Atualizações e novas funcionalidades são disponibilizadas de forma imediata, não sendo necessário dedicar especialistas para estas funções;
+* Suporte mais ágil com soluções implementadas rapidamente, onde os problemas encontrados são tratados e a solução é disponibilizada de forma transparente a todos os usuários sem a necessidade de um tratamento individual que retarda a disponibilização da correção;
+* A empresa pode focar os seus esforços no seu negócio, sem despender energia com a escolha e manutenção de sistemas;
+* Aumento da disponibilidade e segurança dos dados. Disponibilizando procedimentos de _backup_, restauração e planos de contingência para o caso da perda de informações ou falha de _hardware_.
 
 ### Desvantagens
 
