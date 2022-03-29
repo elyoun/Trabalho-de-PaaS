@@ -11,7 +11,7 @@ Neste trabalho, através da aprendizagem feita ao longo das últimas aulas, comp
 
 ## O que é PaaS?
 
-PaaS designa o serviço de _Platform-as-a-Service_ e refere-se ao serviço de nuvem que fornece a fundação para os desenvolvedores de _software_ desenharem, desenvolverem e executarem aplicações. Facilita a testagem das mesmas e permite implementar e distribuir essas aplicações sem que tenhamos de nos preocupar com a infraestrutura subjacente de _hardware_ mas também de todo o _software_ necessário para o desenvolvimento das mesmas e inclui serviços de rede, servidores, armazenamento, virtualização, sistemas operativos, middleware, desenvolvimento, monitorização e segurança.
+PaaS designa o serviço de _Platform-as-a-Service_ e refere-se ao serviço de nuvem que fornece a fundação para os desenvolvedores de _software_ desenharem, desenvolverem e executarem aplicações. Facilita a testagem das mesmas e permite implementar e distribuir essas aplicações sem que tenhamos de nos preocupar com a infraestrutura subjacente de _hardware_ mas também de todo o _software_ necessário para o desenvolvimento das mesmas e inclui serviços de rede, servidores, armazenamento, virtualização, sistemas operativos, _middleware_, desenvolvimento, monitorização e segurança.
 
 <p align="center">
   <img src="https://blogs.bmc.com/wp-content/uploads/2017/09/saas-vs-paas-vs-iaas-720x675.png"/>
@@ -63,7 +63,7 @@ Sintetizando, o Elastic Beanstalk oferece:
 
 * Possibilidade de maior investimento de tempo no desenvolvimento de aplicações
 
-* Acesso a todos os serviços de computação em nuvem da AWS.
+* Acesso a vários serviços de computação em nuvem da AWS.
 
 * Controlo sobre os recursos utilizados
 
@@ -83,3 +83,8 @@ A Amazon disponibiliza vários serviços PaaS no seu catálogo dos quais se dest
 *	**Amazon API Gateway:** permite que desenvolvedores criem, publiquem, mantenham, monitorem e protejam APIs em qualquer escala com facilidade. Administra todas as tarefas envolvidas na receção e processamento de centenas de milhares de chamadas de API em simultâneo, inclusive gerenciamento de tráfego, controlo de autorização e acesso, monitorização e gerenciamento de versões;
 *	**AWS Amplify:** conjunto de ferramentas e recursos especialmente desenvolvidos para que desenvolvedores _frontend_ de plataformas móveis e Web criem aplicações completas de forma rápida e fácil na AWS;
 *	**AWS Codestar:** disponibiliza uma interface que viabiliza uma fácil gestão de atividades de desenvolvimento de _software_ num só lugar, permitindo o desenvolvimento, compilação e rápida implementação de aplicações na AWS.
+
+## Conclusão
+
+As vantagens dos serviços Paas excedem imensamente as desvantagens pelo que são uma excelente opção para desenvolvedores de _software_ que não pretendam preocupar-se com infraestruturas, permitindo evitar o custo das mesmas e dos recursos humanos necessários à sua gestão e manutenção. Adicionalmente, os custos são de acordo com a utilização, portanto o PaaS estabelece-se como uma opção economicamente viável. Por conseguinte, o AWS Elastic Beanstalk oferece todas as condições para implementar aplicações de uma forma rápida e simples devido ao fácil controlo sobre os recursos usados e acesso a vários outros serviços de computação em nuvem da AWS.
+
