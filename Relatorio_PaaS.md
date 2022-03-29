@@ -90,15 +90,16 @@ As vantagens dos serviços PaaS excedem imensamente as desvantagens pelo que sã
 
 ## Referências
 
-https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/awseb-dg.pdf
-https://aws.amazon.com/amplify
-https://aws.amazon.com/api-gateway
-https://aws.amazon.com/cloud9
-https://aws.amazon.com/codestar
-https://aws.amazon.com/elasticbeanstalk/
-https://aws.amazon.com/lambda
-https://aws.amazon.com/lightsail
-https://aws.amazon.com/rds
-https://aws.amazon.com/robomaker
-
+* https://aws.amazon.com/amplify
+* https://aws.amazon.com/api-gateway
+* https://aws.amazon.com/cloud9
+* https://aws.amazon.com/codestar
+* https://aws.amazon.com/elasticbeanstalk/
+* https://aws.amazon.com/lambda
+* https://aws.amazon.com/lightsail
+* https://aws.amazon.com/rds
+* https://aws.amazon.com/robomaker
+* https://cdn2.hubspot.net/hubfs/1629777/A%20Comprehensive%20Guide%20on%20AWS%20as%20SaaS_IaaS_and_PaaS.pdf
+* https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/awseb-dg.pdf
+* https://magenest.com/en/aws-iaas-paas-saas/
 
