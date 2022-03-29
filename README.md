@@ -13,7 +13,9 @@ Neste trabalho, através da aprendizagem feita ao longo das últimas aulas, comp
 
 PaaS designa o serviço de Platform-as-a-Service, refere-se ao serviço de nuvem que fornece a fundação para os desenvolvedores de software desenharem, desenvolverem e executarem aplicações. Facilita a testagem das mesmas e permite implementar e distribuir essas aplicações sem que tenhamos de nos preocupar com a infraestrutura subjacente de hardware, mas também de todo o software necessário para o desenvolvimento das mesmas, inclui serviços de rede, servidores, armazenamento, virtualização, sistemas operativos, middleware, desenvolvimento, monitorização, segurança.
 
-![img](https://blogs.bmc.com/wp-content/uploads/2017/09/saas-vs-paas-vs-iaas-720x675.png)
+<p align="center">
+  <img src="https://blogs.bmc.com/wp-content/uploads/2017/09/saas-vs-paas-vs-iaas-720x675.png"/>
+</p>
 
 
 ### Vantagens
