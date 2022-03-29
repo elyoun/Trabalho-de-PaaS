@@ -60,7 +60,7 @@ No que toca ao preço deste serviço, este é 100% gratuito. No entanto, o utili
 
 ## Outros serviços oferecidos
 
-A Amazon disponibiliza imensos serviços no seu catálogo dos quais se destacam os seguintes referentes a PaaS:
+A Amazon disponibiliza vários serviços PaaS no seu catálogo dos quais se destacam os seguintes:
 
 *	**AWS Lambda:** serviço de computação que permite executar código para praticamente qualquer tipo de aplicação ou serviço de backend sem se preocupar com servidores. Pode ser accionado a partir de mais de 200 serviços da AWS e aplicações SaaS e só se paga pelo que se usar;
 *	**Amazon RDS (Amazon Relational Database Service):** coleção de serviços gerenciados que facilita a configuração, operação e escalabilidade de bancos de dados na nuvem;
