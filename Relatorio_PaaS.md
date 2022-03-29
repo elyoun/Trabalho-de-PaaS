@@ -47,7 +47,7 @@ Com o Elastic Beanstalk, os desenvolvedores de <i>software</i> podem implementar
 O Elastic Beanstalk suporta aplicações desenvolvidas em Go, Java, .NET, Node.js, PHP, Python e Ruby. Sendo esta uma ferramenta para implementação de aplicações em computação em nuvem da AWS, tem acesso a outras tecnologias/serviços. Nas configurações de uma implementação de uma aplicação no Elastic Beanstalk, o programador tem acesso ao AWS EC2, Amazon S3, Amazon RDS, AutoScaling e Elastic Load Balancing, entre outros.
 </p>
 <p align="justify">
-De um forma simplificada, o programador cria um ficheiro .zip utilizando o Elastic Beanstalk, este cria toda a infraestrutura necessária para implementar a aplicação, desde os servidores a bases de dados, até utilizando AutoScaling e Elastic Load Balancing, dependendo das nossas preferências.
+De um forma simplificada, o programador cria um ficheiro .zip utilizando o Elastic Beanstalk e este cria toda a infraestrutura necessária para implementar a aplicação, desde os servidores a bases de dados, até utilizando AutoScaling e Elastic Load Balancing, dependendo das nossas preferências.
 </p>
 <p align="justify">
 A título de exemplo, algumas das funções de gestão fornecidas pelo serviço são: implementação de uma versão nova de uma aplicação (ou até mesmo reverter para uma versão anterior); acesso a resultados reportados pelo serviço de monitorização <i>CloudWatch</i>; notificações de email quando o estado da aplicação implementada muda ou servidores são adicionados ou removidos; e acesso aos ficheiros de login sem que seja necessário entrar nos servidores da aplicação. 
