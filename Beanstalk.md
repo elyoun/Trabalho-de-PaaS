@@ -19,3 +19,15 @@ A título de exemplo, algumas das funções de gestão fornecidas pelo serviço 
 <p align="justify">
 No que toca ao preço deste serviço, este é 100% gratuito. No entanto, o utilizador terá de pagar pelo uso dos servidores EC2, tal como o armazenamento e tudo o resto, como se estivesse a utilizar qualquer outro serviço de computação em nuvem da AWS.
 </p>
+
+**Sintetizando o Elastic Beanstalk oferece:**
+
+* Uma forma rápida e simples de implementar aplicações
+
+* Possibilidade de maior investimento de tempo no desenvolvimento de aplicações
+
+* Acesso a todos os serviços de computação em nuvem da AWS.
+
+* Controlo sobre os recursos utilizados
+
+* Modelo de pagamento simplificado
