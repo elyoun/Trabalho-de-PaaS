@@ -1,4 +1,4 @@
-# Trabalho-de-PaaS
+# Relatório de PaaS - Grupo 2
 ## Resumo
 
 Ao longo deste trabalho optamos por fazer, em primeiro lugar, uma contextualização 
