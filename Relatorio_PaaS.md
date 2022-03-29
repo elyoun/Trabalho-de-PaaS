@@ -86,5 +86,19 @@ A Amazon disponibiliza vários serviços PaaS no seu catálogo dos quais se dest
 
 ## Conclusão
 
-As vantagens dos serviços PaaS excedem imensamente as desvantagens pelo que são uma excelente opção para desenvolvedores de _software_ que não pretendam preocupar-se com infraestruturas, permitindo evitar o custo das mesmas e dos recursos humanos necessários à sua gestão e manutenção. Adicionalmente, os custos são de acordo com a utilização, portanto o PaaS estabelece-se como uma opção economicamente viável. Por conseguinte, o AWS Elastic Beanstalk oferece todas as condições para implementar aplicações de uma forma rápida e simples devido ao fácil controlo sobre os recursos usados e acesso a vários outros serviços de computação em nuvem da AWS.
+As vantagens dos serviços PaaS excedem imensamente as desvantagens pelo que são uma excelente opção para desenvolvedores de _software_ que não pretendam preocupar-se com infraestruturas _on-premises_, permitindo evitar o custo das mesmas e dos recursos humanos necessários à sua gestão e manutenção. Adicionalmente, os custos são de acordo com a utilização, portanto o PaaS estabelece-se como uma opção economicamente viável. Por conseguinte, o AWS Elastic Beanstalk oferece todas as condições para implementar aplicações de uma forma rápida e simples devido ao fácil controlo sobre os recursos usados e acesso a vários outros serviços de computação em nuvem da AWS.
+
+## Referências
+
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/awseb-dg.pdf
+https://aws.amazon.com/amplify
+https://aws.amazon.com/api-gateway
+https://aws.amazon.com/cloud9
+https://aws.amazon.com/codestar
+https://aws.amazon.com/elasticbeanstalk/
+https://aws.amazon.com/lambda
+https://aws.amazon.com/lightsail
+https://aws.amazon.com/rds
+https://aws.amazon.com/robomaker
+
 
